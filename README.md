@@ -1,5 +1,4 @@
-# Valorion-AntiSpamChat
+# Valorion-RandomTP
+Minecraft Plugin 1.7.10 for Valorion players. RandomTP is 100% plugin dev by Volax
 
-Minecraft Plugin 1.7.10. Plugin is anti spam chat for Valorion server.
-
-***© Volax, free use.***
+***©Volax, free use.***
