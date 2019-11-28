@@ -1,16 +1,4 @@
-name: ValorionPlugin
-version: 1.0.3
-main: fr.volax.valorionplugin.Main
-description: Valorion Plugin
+name: BungeeCordSwitcher
+version: 1.0
 author: Volax
-commands:
-  sendplayerchat:
-    description: Pour envoyer un message avec des couleurs
-  valorionpl:
-    description: Commande principal du plugin Valorion
-  getmat:
-    description: Pour avoir le getType de l'item ( Pour le plugin Faction )
-  xpbottle:
-    description: Transformer l'xp en bouteille
-  ec:
-    description: Convertisseur customec open en ec
+main: fr.volax.bungeeswitcher.BungeeCordMain
