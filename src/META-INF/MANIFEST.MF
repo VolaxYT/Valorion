@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: gilded-games-util-1.7.10-1.9.jar spigot-1.7.10-SNAPSHOT-b1
+ 657(1).jar
+

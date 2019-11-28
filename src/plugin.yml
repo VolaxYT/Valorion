@@ -1,4 +1,8 @@
-name: BungeeCordSwitcher
+main: fr.volax.vbroadcast.Main
+name: Patch
 version: 1.0
 author: Volax
-main: fr.volax.bungeeswitcher.BungeeCordMain
+commands:
+  vbroadcast:
+    description: vbroadcast
+    aliases: vbc
