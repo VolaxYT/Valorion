@@ -1,3 +1,22 @@
-time: 2
-message: "&6Valorion > &cNe pas spam !"
-permission-bypass: "valorion.chat.bypass"
+messages:
+  noplayer: "&cVous devez être un joueur pour executer cette commande !"
+  reload: "&7Configuration rechargee !"
+  rtp:
+    help: "&7Execution: &c/rtp"
+    noperm: "&cTu n'as pas la permission de creer un panneau RandomTP"
+    noperm2: "&cTu n'as pas la permission d'utiliser un panneau RandomTP"
+    canteleport: "&aVous pouvez vous teleporter"
+    error: "&7Vous ne pouvez pas vous teleporter, veillez patienter %cooldown% secondes"
+
+rtp:
+  world: world
+  x: 2000
+  z: 2000
+  cooldown-activer: true
+  cooldown-temps: 3600
+
+permissions:
+  rtp-reloadconfig: "valorion.randomtp.reload"
+  rtp-teleport: "valorion.randomtp"
+  rtp-sign-teleport: "valorion.randomtp.tpsign"
+  rtp-sign-create: "valorion.randomtp.createsign"

@@ -1,6 +1,8 @@
-main: fr.valorion.asc.AscMain
-name: AntiSpamChat
-version: 1.0
-description: AntiSpamChat
+name: ValorionRTP
+version: 1.0.0
+main: fr.volax.valorionrtp.RandomTPMain
+description: Valorion RTP
 author: Volax
-website: https://github.com/VolaxYT
+commands:
+  rtp:
+    description: Random teleport
